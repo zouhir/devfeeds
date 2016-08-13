@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Dev Feeds | JavaScript and other related web </title>
+    </head>
+    <body>
+      <outline text="CSS" title="CSS">
+          <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
+          <outline type="rss" text="Lea Verou" title="Lea Verou" xmlUrl="http://feeds2.feedburner.com/leaverou" htmlUrl="http://lea.verou.me"/>
+          <outline type="rss" text="Sara Soueidan" title="Sara Soueidan" xmlUrl="http://feeds.feedburner.com/sarasoueidan" htmlUrl="https://sarasoueidan.com/"/>
+          <outline type="rss" text="Chris Coyier" title="Chris Coyier" xmlUrl="http://chriscoyier.net/feed/" htmlUrl="http://chriscoyier.net"/>
+          <outline type="rss" text="CSS Wizardry" title="CSS Wizardry" xmlUrl="http://feeds.feedburner.com/csswizardrycom" htmlUrl="http://csswizardry.com/"/>
+      </outline>
+      <outline text="ENGINEERING TEAMS" title="ENGINEERING TEAMS">
+          <outline type="rss" text="Airbnb Engineering" title="Airbnb Engineering" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com"/>
+          <outline type="rss" text="The Netflix Tech Blog" title="The Netflix Tech Blog" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
+          <outline type="rss" text="Facebook Code" title="Facebook Code" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/"/>
+          <outline type="rss" text="Node.js Blog" title="Node.js Blog" xmlUrl="http://blog.nodejs.org/feed/" htmlUrl="https://nodejs.org/en/"/>
+          <outline type="rss" text="Chromium Blog" title="Chromium Blog" xmlUrl="http://blog.chromium.org/feeds/posts/default" htmlUrl="http://blog.chromium.org/"/>
+          <outline type="rss" text="Microsoft Edge Dev Blog" title="Microsoft Edge Dev Blog" xmlUrl="http://blogs.msdn.com/ie/rss.xml" htmlUrl="https://blogs.windows.com/msedgedev"/>
+          <outline type="rss" text="Mozilla Blog - JavaScript" title="Mozilla Blog - JavaScript" xmlUrl="https://blog.mozilla.org/javascript/feed/" htmlUrl="https://blog.mozilla.org/javascript"/>
+          <outline type="rss" text="The npm Blog" title="The npm Blog" xmlUrl="http://blog.npmjs.org/rss" htmlUrl="http://blog.npmjs.org/"/>
+          <outline type="rss" text="Chrome Experiments - Recent Experiments" title="Chrome Experiments - Recent Experiments" xmlUrl="http://www.chromeexperiments.com/feed/" htmlUrl="https://www.chromeexperiments.com"/>
+          <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog.atom" htmlUrl="https://github.com/blog"/>
+          <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://code.google.com/feeds/updates.xml" htmlUrl="http://developers.googleblog.com/"/>
+          <outline type="rss" text="Mozilla Hacks – the Web developer blog" title="Mozilla Hacks – the Web developer blog" xmlUrl="http://hacks.mozilla.org/feed/" htmlUrl="http://hacks.mozilla.org"/>
+          <outline type="rss" text="Twitter Engineering" title="Twitter Engineering" xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" htmlUrl="https://blog.twitter.com/"/>
+          <outline type="rss" text="Uber Engineering Blog" title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/" htmlUrl="https://eng.uber.com"/>
+          <outline type="rss" text="IEEE Spectrum Recent Content" title="IEEE Spectrum Recent Content" xmlUrl="http://feeds2.feedburner.com/IeeeSpectrum" htmlUrl="http://spectrum.ieee.org"/>
+          <outline type="rss" text="Instagram Engineering" title="Instagram Engineering" xmlUrl="http://instagram-engineering.tumblr.com/rss" htmlUrl="http://instagram-engineering.tumblr.com/"/>
+          <outline type="rss" text="Google Chrome Blog" title="Google Chrome Blog" xmlUrl="http://chrome.blogspot.com/atom.xml" htmlUrl="http://chrome.googleblog.com/"/>
+          <outline type="rss" text="Blog – WebKit" title="Blog – WebKit" xmlUrl="http://webkit.org/blog/feed/" htmlUrl="https://webkit.org"/>
+          <outline type="rss" text="The MongoDB Community Blog" title="The MongoDB Community Blog" xmlUrl="http://blog.mongodb.org/rss" htmlUrl="http://blog.mongodb.org/"/>
+      </outline>
+      <outline text="FRAMEWORKS - LIBRARIES" title="FRAMEWORKS - LIBRARIES">
+          <outline type="rss" text="Official jQuery Blog" title="Official jQuery Blog" xmlUrl="http://jquery.com/blog/feed/" htmlUrl="http://blog.jquery.com"/>
+          <outline type="rss" text="React" title="React" xmlUrl="http://facebook.github.io/react/feed.xml" htmlUrl="https://facebook.github.io/react"/>
+          <outline type="rss" text="Ember Blog" title="Ember Blog" xmlUrl="http://emberjs.com/blog/feed.xml" htmlUrl="http://emberjs.com/blog"/>
+      </outline>
+        <outline text="INDIVIDUALS" title="INDIVIDUALS">
+            <outline type="rss" text="Stories by Dan Abramov on Medium" title="Stories by Dan Abramov on Medium" xmlUrl="https://medium.com/feed/@dan_abramov" htmlUrl="https://medium.com/@dan_abramov?source=rss-a3a8af6addc1------2"/>
+            <outline type="rss" text="AddyOsmani.com | Articles for developers" title="AddyOsmani.com | Articles for developers" xmlUrl="http://feeds.feedburner.com/addyosmani" htmlUrl="http://addyosmani.com/blog"/>
+            <outline type="rss" text="②ality – JavaScript and more" title="②ality – JavaScript and more" xmlUrl="http://www.2ality.com/feeds/posts/default" htmlUrl="http://www.2ality.com/"/>
+            <outline type="rss" text="Jake Archibald's Blog" title="Jake Archibald's Blog" xmlUrl="http://jakearchibald.com/posts.rss" htmlUrl="http://jakearchibald.com/"/>
+            <outline type="rss" text="Zach Leatherman" title="Zach Leatherman" xmlUrl="http://www.zachleat.com/web/feed/" htmlUrl="http://www.zachleat.com/web/"/>
+            <outline type="rss" text="Eric Elliott - JavaScript Scene" title="Eric Elliott - JavaScript Scene" xmlUrl="https://medium.com/feed/javascript-scene" htmlUrl="https://medium.com/javascript-scene?source=rss----c0aeac5284ad---4"/>
+            <outline type="rss" text="Paul Irish" title="Paul Irish" xmlUrl="http://paulirish.com/feed/" htmlUrl="http://paulirish.com/"/>
+            <outline type="rss" text="Thoughts From Eric" title="Thoughts From Eric" xmlUrl="http://meyerweb.com/eric/thoughts/rss2/summary" htmlUrl="http://meyerweb.com/eric/thoughts"/>
+            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="https://davidwalsh.name"/>
+            <outline type="rss" text="Mathias Bynens" title="Mathias Bynens" xmlUrl="http://mathiasbynens.be/notes.atom" htmlUrl="https://mathiasbynens.be/notes"/>
+            <outline type="rss" text="Christian Heilmann" title="Christian Heilmann" xmlUrl="http://www.wait-till-i.com/wp-atom.php" htmlUrl="https://www.christianheilmann.com"/>
+            <outline type="rss" text="Tom Dale" title="Tom Dale" xmlUrl="http://tomdale.net/feed/" htmlUrl="http://tomdale.net"/>
+            <outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org"/>
+            <outline type="rss" text="Brendan Eich" title="Brendan Eich" xmlUrl="http://brendaneich.com/feed/" htmlUrl="http://brendaneich.com"/>
+            <outline type="rss" text="Vjeux" title="Vjeux" xmlUrl="http://blog.vjeux.com/feed" htmlUrl="http://blog.vjeux.com"/>
+            <outline type="rss" text="Snook.ca" title="Snook.ca" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="https://snook.ca/"/>
+        </outline>
+        <outline text="INSPIRATIONS" title="INSPIRATIONS">
+            <outline type="rss" text="CodePen Editor's Picks" title="CodePen Editor's Picks" xmlUrl="http://codepen.io/picks/feed" htmlUrl="http://codepen.io/"/>
+            <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://feeds2.feedburner.com/tympanus" htmlUrl="http://tympanus.net/codrops"/>
+            <outline type="rss" text="CSS Design Awards" title="CSS Design Awards" xmlUrl="http://www.cssdesignawards.com/rss.php" htmlUrl="http://www.cssdesignawards.com"/>
+        </outline>
+        <outline text="MISCELLANEOUS" title="MISCELLANEOUS">
+            <outline type="rss" text="The Spanner" title="The Spanner" xmlUrl="http://www.thespanner.co.uk/feed/" htmlUrl="http://www.thespanner.co.uk"/>
+            <outline type="rss" text="Echo JS" title="Echo JS" xmlUrl="http://www.echojs.com/rss" htmlUrl="http://www.echojs.com"/>
+            <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com"/>
+            <outline type="rss" text="Badass JavaScript" title="Badass JavaScript" xmlUrl="http://badassjs.com/rss" htmlUrl="http://badassjs.com/"/>
+            <outline type="rss" text="DailyJS" title="DailyJS" xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com/"/>
+            <outline type="rss" text="HTML5 Doctor" title="HTML5 Doctor" xmlUrl="http://feeds2.feedburner.com/html5doctor" htmlUrl="http://html5doctor.com"/>
+            <outline type="rss" text="NodeUp" title="NodeUp" xmlUrl="http://feeds.feedburner.com/NodeUp" htmlUrl="http://nodeup.com"/>
+            <outline type="rss" text="When Can I Use updates" title="When Can I Use updates" xmlUrl="http://feeds.feedburner.com/WhenCanIUse" htmlUrl="http://caniuse.com/feed.php"/>
+            <outline type="rss" text=".net" title=".net" xmlUrl="http://feeds.feedburner.com/net/topstories" htmlUrl="http://www.netmagazine.com"/>
+            <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="http://thenextweb.com"/>
+            <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="http://javascriptweekly.com/rss" htmlUrl="http://javascriptweekly.com/"/>
+            <outline type="rss" text="HTML5 Weekly" title="HTML5 Weekly" xmlUrl="http://html5weekly.com/rss" htmlUrl="http://html5weekly.com/"/>
+        </outline>
+    </body>
+</opml>
