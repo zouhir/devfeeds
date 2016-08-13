@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zouhir/devfeeds/master/taco.png">
-</p>
+</p><br />
+
 > JavaScript, Frontend and Engineering Blogs I daily read
 
 >Recommended on public transport and while having coffee
 
-*PS: Main categories order is **alphabetical** but blogs order is generated and completely **random***
+*PS: Main categories order is **alphabetical** but blogs order is generated and completely **random** *
 
 ## CSS
 * [CSS-Tricks](https://css-tricks.com)
@@ -77,6 +78,7 @@
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
 
+<br />
 
 ### Feedly OPML
 Download the list as an OPML and import it directly into feedly. [Download my OPML](https://raw.githubusercontent.com/zouhir/devfeeds/master/feedly.opml)
