@@ -6,7 +6,7 @@
 
 >Recommended on public transport and while having coffee
 
-*PS: Main categories order is alphabetical but blogs order is generated and completely random *
+*PS: Main categories order is alphabetical but blogs order is generated and completely random*
 
 ## CSS
 * [CSS-Tricks](https://css-tricks.com)
